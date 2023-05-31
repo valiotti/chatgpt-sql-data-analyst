@@ -12,7 +12,7 @@ Please note that the use of the API is [not free](https://openai.com/pricing#cha
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/valiotti/chatgpt-sql-data-analyst
+   git clone https://github.com/valiotti/chatgpt-sql-data-analyst.git
    ```
 
 2. Install the required dependencies:
@@ -79,11 +79,11 @@ Since the ChatGPT assistant takes a database schema as the context in the JSON f
 
 ### `Convert SQL to JSON.ipynb`
 
-https://github.com/valiotti/chatgpt-sql-data-analyst/assets/127095297/d8ed6282-57a6-4693-bb2c-56a8a5c46164
+https://github.com/valiotti/chatgpt-sql-data-analyst/assets/127095297/eb32bb41-57c2-4292-b140-1df54d698946
 
 ### `Chat.ipynb`
 
-https://github.com/valiotti/chatgpt-sql-data-analyst/assets/127095297/061b4d8e-6ae8-4fe6-8f4f-f01d0e0e9ddd
+https://github.com/valiotti/chatgpt-sql-data-analyst/assets/127095297/19535f51-8fd1-4bbb-a257-2d89e8d62fef
 
 ## AIPRM templates
 
